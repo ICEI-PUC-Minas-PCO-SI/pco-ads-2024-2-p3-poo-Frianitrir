@@ -1,0 +1,43 @@
+C:\Users\Lucas.henrique\Desktop\poo2\bin\Debug\net8.0\poo2.exe
+C:\Users\Lucas.henrique\Desktop\poo2\bin\Debug\net8.0\poo2.deps.json
+C:\Users\Lucas.henrique\Desktop\poo2\bin\Debug\net8.0\poo2.runtimeconfig.json
+C:\Users\Lucas.henrique\Desktop\poo2\bin\Debug\net8.0\poo2.dll
+C:\Users\Lucas.henrique\Desktop\poo2\bin\Debug\net8.0\poo2.pdb
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\poo2.AssemblyInfoInputs.cache
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\poo2.AssemblyInfo.cs
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\poo2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\poo2.dll
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\refint\poo2.dll
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\poo2.pdb
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\poo2.genruntimeconfig.cache
+C:\Users\Lucas.henrique\Desktop\poo2\obj\Debug\net8.0\ref\poo2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\bin\Debug\net8.0\poo2.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\bin\Debug\net8.0\poo2.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\bin\Debug\net8.0\poo2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\bin\Debug\net8.0\poo2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\bin\Debug\net8.0\poo2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\poo2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\poo2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\poo2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\poo2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\refint\poo2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\poo2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\poo2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\POO\obj\Debug\net8.0\ref\poo2.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\bin\Debug\net8.0\poo2.exe
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\bin\Debug\net8.0\poo2.deps.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\bin\Debug\net8.0\poo2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\bin\Debug\net8.0\poo2.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\bin\Debug\net8.0\poo2.pdb
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.sourcelink.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\refint\poo2.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.pdb
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\poo2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\pco-ads-2024-2-p3-poo-Frianitrir\obj\Debug\net8.0\ref\poo2.dll
